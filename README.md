@@ -21,7 +21,7 @@ The AI uses the Minimax algorithm with alpha-beta pruning and a board evaluation
 - `gui.py`: Handles all graphical rendering and game loop logic using Pygame.
 - `ai.py`: Contains the AI logic including Minimax, evaluation, and move selection.
 - `constants.py`: Stores game configuration values such as board size, colors, and piece types.
-- `connect4.py`: **(Required)** Game logic class (not included in uploaded files). Must implement the core Connect 4 mechanics.
+- `connect4.py`: **(Required)** Game logic class.
 
 ---
 
